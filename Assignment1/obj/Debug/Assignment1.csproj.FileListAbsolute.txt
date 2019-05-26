@@ -1,0 +1,11 @@
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe.config
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.exe
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\Assignment1.pdb
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csprojAssemblyReference.cache
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CoreCompileInputs.cache
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.exe
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.pdb
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\nunit.framework.dll
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\nunit.framework.pdb
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\bin\Debug\nunit.framework.xml
+C:\Users\Sukhchain Kharoud\source\repos\Assignment1\Assignment1\obj\Debug\Assignment1.csproj.CopyComplete
