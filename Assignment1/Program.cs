@@ -89,7 +89,7 @@ namespace Assignment1
                 switch (menuOption)
                 {
                     case 1:
-                        Console.WriteLine("Length is :{0}", obj.GetLength());
+                        Console.WriteLine("Length is :{0} units", obj.GetLength());
                         break;
                     case 2:
                         string leng = string.Empty;
@@ -100,10 +100,10 @@ namespace Assignment1
                             leng = Console.ReadLine();
                         } while (!(ValidateInt(leng)));
                         lengthl = int.Parse(leng);
-                        Console.WriteLine("New Length is :{0}",obj.SetLength(lengthl));
+                        Console.WriteLine("New Length is :{0} units",obj.SetLength(lengthl));
                         break;
                     case 3:
-                        Console.WriteLine("Width is :{0}", obj.GetWidth());
+                        Console.WriteLine("Width is :{0} units" , obj.GetWidth());
                         break;
                     case 4:
                         string wid = string.Empty;
@@ -114,13 +114,13 @@ namespace Assignment1
                             wid = Console.ReadLine();
                         } while (!(ValidateInt(wid)));
                         widthw = int.Parse(wid);
-                        Console.WriteLine("New Width is :{0}", obj.SetWidth(widthw));
+                        Console.WriteLine("New Width is :{0} units", obj.SetWidth(widthw));
                         break;
                     case 5:
-                        Console.WriteLine("Perimeter is :{0}", obj.GetPerimeter());
+                        Console.WriteLine("Perimeter is :{0} units" , obj.GetPerimeter());
                         break;
                     case 6:
-                        Console.WriteLine("Area is  :{0}", obj.GetArea());
+                        Console.WriteLine("Area is  :{0} units", obj.GetArea());
                         break;
                     case 7:
                         exitProgram = true;
